@@ -1,2 +1,2 @@
-# Project-Management-App
-This repository contains a Power Apps Canvas application designed to streamline project and task management for teams. The app provides an intuitive interface and robust functionality to help organizations manage projects efficiently.
+# Collaterals (GTM)
+This repository contains POC with Data and AI led automation leveraging RPA platforms also case studies and Demos/POCs are developed for each Use Case project
