@@ -1,0 +1,5 @@
+﻿"Scenario","Description","Category","Priority","SLADeadline","Status","AssignedTeam","Phone","Email","ShiftHours","Ticket ID","Problem Status","Comments"
+"Software Installation","The user requests installation of a software application or reports issues during installation.","Software","Low","12/9/2025","In Progress",,"8824789469","Priyal.Bansal@exlservice.com","12:00 - 22:00","INC-774509","No","Need support team assistance as I'm not able to do it on my own"
+"Laptop not working","The laptop is not powering on or functioning properly.","Hardware","High","12/7/2025","In Progress",,"8824789469","Priyal.Bansal@exlservice.com","12:00 - 22:00","INC-336903",,
+"Leave Management","Incorrect leave balance displayed or Leave request not approved or stuck in workflow.","Software","High","12/10/2025","In Progress",,"882478946","Priyal.Bansal@exlservice.com","9:00 AM-5:00 PM","INC-C2261560","No","Need Additional assistance"
+"Wifi Not Working","The user is unable to connect to Wi-Fi or access the internet","Network","High","12/10/2025","In Progress",,"9462014163","Priya.Bansal@exlservice.com","9:00 AM-5:00 PM","INC-86B6DBD4","No",

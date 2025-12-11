@@ -1,0 +1,52 @@
+﻿"Category","Scenario","Description","Assigned Team","Resolution Steps","ID","Assigned Person"
+"Hardware","Laptop Not working","The laptop is not powering on or functioning properly.","L1 Ops Team (basic troubleshooting, replacements)","1. Verify power source and adapter connection.
+2. Check if the charging light or power indicator is on.
+3. Perform a hard reset:
+    ..Disconnect power adapter and battery (if removable).
+    ..Hold the power button for 30 seconds.
+    ..Reconnect and try powering on.
+4. Test with a different power adapter if available.
+5. If still not working, escalate to L2.","1","Priyal Bansal"
+"Hardware","Getting Blue Screen","The system displays a Blue Screen of Death (BSOD) error, indicating a critical system failure.","L2 Hardware Team (complex hardware issues)","1. Note the error code displayed on the blue screen.
+2. Restart the laptop and check if the issue persists.
+3. Disconnect external devices (USB, peripherals) and retry.
+4. Boot into Safe Mode:
+       If successful, uninstall recently installed drivers or updates.
+5. Run basic diagnostics (Windows Memory Diagnostic, Disk Check).
+","2","Priyal Bansal"
+"Network","Wifi Not Working","The user is unable to connect to Wi-Fi or access the internet","L1 Network Ops Team (basic connectivity checks)","1. Confirm Wi-Fi is enabled on the device.
+2. Check if other devices can connect to the same network.
+3. Restart the laptop and Wi-Fi router.
+4. Forget and reconnect to the network using correct credentials.
+5. Run Windows Network Troubleshooter.
+6. If issue persists, escalate to L2.","3","Priyal Bansal"
+"Network","VPN Issue","The user is unable to connect to the corporate VPN","L2 Network Engineering Team (advanced network configs)","1. Verify user credentials and ensure account is active.
+2. Check internet connectivity and confirm user can browse external sites.
+3. Restart VPN client and system.
+4. Ensure correct VPN profile is selected.
+5. Temporarily disable firewall/antivirus and retry.
+","4","Priyal Bansal"
+"IT","Global Protect Issue","The user is unable to connect to the corporate network using the GlobalProtect VPN client","L2 IT Admin Team (system-level issues)","1. Verify user credentials and ensure account is active.
+2. Check internet connectivity and confirm user can browse external sites.
+3. Restart GlobalProtect client and the system.
+4. Ensure correct VPN portal address is configured.
+5. Temporarily disable firewall/antivirus and retry.
+","5","Priyal Bansal"
+"IT","Software Installation","The user requests installation of a software application or reports issues during installation.","L1 Tech Support (password reset, software install)","1. Confirm the software name, version, and purpose.
+2. Check if the user has admin rights for installation.
+3. Verify system requirements (OS version, disk space).
+4. Download the installer from an approved source.
+5. Temporarily disable antivirus/firewall if blocking installation.","6","Priyal Bansal"
+"HR","Payroll Issue","discrepancy or issue related to payroll","L2 HR Specialist Team (policy or payroll escalations)","1. Collect details from the employee:
+       Month of payroll issue.
+       Nature of discrepancy (amount, deductions, allowances).
+2. Verify if the issue is visible in the HR/payroll system.
+3. Check if the employee’s bank details and tax information are correct.
+4. Confirm if the payroll cycle was processed successfully.
+","7","Priyal Bansal"
+"HR","Leave Management","Incorrect leave balance displayed or Leave request not approved or stuck in workflow.","L1 HR Ops Team (leave, attendance)","1. Collect details from the employee:
+       Leave type, dates requested, and error message (if any).
+2. Verify leave balance and request status in the HR portal.
+3. Check if the workflow is pending with the approver.
+4. Guide the user to clear browser cache or try a different browser.
+","8","Priyal Bansal"
