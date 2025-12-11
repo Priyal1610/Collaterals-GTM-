@@ -1,0 +1,14 @@
+﻿"ID","Title","Project ID","Description","Start Date","Due Date","Status","Priority","Assigned To","Assignee","Completed on"
+"3","Conversation Rate Analysis","4","Analyze conversion rate of each funnel stage and recommend specific actions to improve performance.","7/11/2025","8/26/2025","To Do","Low","Priyal Bansal;Sugandha","Priyal Bansal",
+"1","Subscribe!","1","It helps a lot :)","6/4/2025","7/4/2025","Completed","Low","Priyal Bansal","Priyal Bansal","3/12/2025"
+"5","Stakeholder Feedback Collection","2","Collect feedback from diverse stakeholders to identify gaps in current diversity and inclusion efforts.","8/6/2025","8/23/2025","Completed","Low","Priyal Bansal","Priyal Bansal","7/15/2025"
+"7","Skill Gap identification","3","Use data analysis to identify gaps in employee skills and recommend targeted training opportunities.","8/6/2025","8/23/2025","To Do","High","Priyal Bansal","Priyal Bansal",
+"8","Workflow Mapping","5","Conduct workflow mapping sessions with teams to pinpoint bottlenecks and inefficiencies in current processes.","6/24/2025","9/6/2025","To Do","High","Priyal Bansal","Priyal Bansal",
+"9","Development Pilot Testing","4","Develop and test small-scale process improvements before wider implementation to ensure effectiveness.","6/24/2025","9/6/2025","To Do","Medium","Priyal Bansal","Priyal Bansal",
+"10","Diversity Metrics Development","3","develop metrics to measure the impact of diversity initiatives on customer and employee engagement.","6/24/2025","9/6/2025","Completed","Low","Priyal Bansal","Priyal Bansal","8/20/2025"
+"11","Task Performance Tracking","3","Implement a system to track employee performance improvements post-training using key performance indicators(KPIs).","6/24/2025","9/6/2025","Ready for QA","High","Priyal Bansal","Priyal Bansal",
+"12","Feedback Data Collection","5","Gather and consolidate customer feedback from surveys, reviews, and social media to analyze common themes.","5/20/2025","8/8/2025","Completed","High","Priyal Bansal","Priyal Bansal","5/13/2025"
+"14","Sentiment Analysis","5","Use sentiment analysis tools to categorize customer feedback and identify areas needing urgent attention.","5/20/2025","8/8/2025","To Do","Low","Priyal Bansal","Priyal Bansal","8/20/2025"
+"22","Notification Test","5","This is test description","5/20/2025","8/8/2025","To Do","Low","Priyal Bansal;Pradeep Tripathi;Aayushi Bhardwaj;Abhishek Dhakne","Priyal Bansal",
+"23","test Task","2","Testing","5/20/2025","8/8/2025","In Progress","Low","Abhishek Dhakne","Priyal Bansal",
+"25","App Notification Test","6","Notification test Description","5/20/2025","8/8/2025","Completed","Medium","Priyal Bansal;Pradeep Tripathi;Aayushi Bhardwaj;Arghya Mukherjee","Priyal Bansal","8/23/2025"
