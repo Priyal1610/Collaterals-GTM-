@@ -1,2 +1,2 @@
-# Collaterals (GTM)
-This repository contains POC with Data and AI led automation leveraging RPA platforms also case studies and Demos/POCs are developed for each Use Case project
+# WhitePaper
+This repository contains a whitepaper titled Advancing Enterprise AI with Retrieval-Augmented Generation (RAG) and NVIDIA’s Optimized Ecosystem.
